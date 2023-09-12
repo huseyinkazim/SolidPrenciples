@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
 ProductPriceCalculator calculator = new();
 Product urun1 = new Product
 {
